@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\code\\DrWolfBlogAPI\\build.proj": {}
+  },
+  "projects": {
+    "D:\\code\\DrWolfBlogAPI\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\DrWolfBlogAPI\\build.proj",
+        "projectName": "build",
+        "projectPath": "D:\\code\\DrWolfBlogAPI\\build.proj",
+        "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\DrWolfBlogAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
