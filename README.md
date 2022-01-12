@@ -5,10 +5,16 @@ The project contains 17 unit tests using XUnit framework.
 The tests are not complete yet especially for the authentication (Users) controller.
 
 # Project structure
+
 1.WebApi (.net project)
-  >>BlogController
-  >>UsersController
+  * Controllers
+    - BlogController
+    - UsersController
+  * Models
+  * Entities
+  
 2.Tests (.net project)
+  * BlogControllerTests
 
 # Installation & testing instructions (Windows):
 1. Clone the repo.
