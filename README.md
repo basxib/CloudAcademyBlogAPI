@@ -1,6 +1,8 @@
 # Blog Web API built using C# & .NET 5
 # Overview
-I used the test driven development approach aka (TDD) to build this sample project.
+This is a single blog API project demonstrating Web APIs in .net 5 using TDD princicples and user authentication with JWT tokens. 
+I used the test driven development approach aka (TDD) to build this sample project, it contains 17 unit tests using XUnit framework.
+The tests are not complete yet especially for the authentication (Users) controller.
 
 # Installation & testing instructions (Windows):
 1. Clone the repo.
@@ -12,3 +14,10 @@ I used the test driven development approach aka (TDD) to build this sample proje
 7. The web server should be running on port 8090 now.
 8. Download and open Postman: https://www.postman.com/downloads/
 9. Start experimenting with the APIs using postman (watch this video guide)
+
+
+# Areas to improve if I had more time:
+Use Async methods instead of synchronous to gain more performance.
+Use Swagger to serve an API manual page.
+Create a containerized version of the app.
+Further expand on unit tests.
