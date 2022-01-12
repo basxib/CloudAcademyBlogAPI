@@ -17,7 +17,7 @@ The tests are not complete yet especially for the authentication (Users) control
 
 
 # Areas to improve if I had more time:
-Use Async methods instead of synchronous to gain more performance.
-Use Swagger to serve an API manual page.
-Create a containerized version of the app.
-Further expand on unit tests.
+1. Use Async methods instead of synchronous to gain more performance.
+2. Use Swagger to serve an API manual page.
+3. Create a containerized version of the app.
+4. Further expand on unit tests.
