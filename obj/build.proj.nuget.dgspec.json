@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\DrWolfBlogAPI\\build.proj": {}
+    "D:\\code\\CloudAcademyBlogAPI\\build.proj": {}
   },
   "projects": {
-    "D:\\code\\DrWolfBlogAPI\\build.proj": {
+    "D:\\code\\CloudAcademyBlogAPI\\build.proj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\DrWolfBlogAPI\\build.proj",
+        "projectUniqueName": "D:\\code\\CloudAcademyBlogAPI\\build.proj",
         "projectName": "build",
-        "projectPath": "D:\\code\\DrWolfBlogAPI\\build.proj",
+        "projectPath": "D:\\code\\CloudAcademyBlogAPI\\build.proj",
         "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\DrWolfBlogAPI\\obj\\",
+        "outputPath": "D:\\code\\CloudAcademyBlogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config"

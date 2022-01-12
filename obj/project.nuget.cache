@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3QPwsL4fYDIJTxcZVRBTVemScsVxOU/CS/N9kNtGpV/REMR9AA++/l/CqgIh9T632FhMAyPQFPKzKG0b+YB2rA==",
+  "dgSpecHash": "hbqLgEqSwxeeoCpal7QxiiMnAMr2yEawz5ysoM3dcaHvbrm8skrUpD5OQRMi66xF+APE0bl6Aavjs8uowY3RPw==",
   "success": true,
-  "projectFilePath": "D:\\code\\DrWolfBlogAPI\\build.proj",
+  "projectFilePath": "D:\\code\\CloudAcademyBlogAPI\\build.proj",
   "expectedPackageFiles": [
     "C:\\Users\\Bassel\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Bassel\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",

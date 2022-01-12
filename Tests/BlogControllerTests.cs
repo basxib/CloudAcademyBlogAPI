@@ -92,7 +92,7 @@ public class BlogControllerTests
         var result = _blogController.AddPost(newPost);
 
         //Assert
-        Assert.IsAssignableFrom<CreatedAtActionResult>(result);
+        Assert.IsAssignableFrom<OkResult>(result);
     }
 
     [Fact]
@@ -283,21 +283,6 @@ public class BlogControllerTests
 
         //Assert
         Assert.IsAssignableFrom<NotFoundResult>(result);
-    }
-
-    [Fact]
-    public void DeletePost_WithNonAdminAccount_ReturnsUnauthorized()
-    {//todo: continue writing tests for the rest of regions
-        //Arrange
-        _mockPostsList.Object.AddRange(GenerateMockPosts());
-        var post = _mockPostsList.Object.FirstOrDefault();
-
-        //Act
-
-        var result = _blogController.DeletePost(post.Id.ToString());
-
-        //Assert
-        Assert.IsAssignableFrom<UnauthorizedResult>(result);
     }
 
     #endregion

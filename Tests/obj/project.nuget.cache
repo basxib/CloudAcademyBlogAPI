@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFmBisZsOGI9aahSYNa4GudIszPiHj585CKDiysBzAFsvIZMoHlgWx6mJQQT9jEOj60ng9W20NFdmyCEciVzmQ==",
+  "dgSpecHash": "34T3bkbVkO+1Xurk2AYDDVOkMCSa3ZFCY175aJrXiTC87XvHXoN21XHljL2KwW549D35XEgb56z9qd0LhMjAIg==",
   "success": true,
-  "projectFilePath": "D:\\code\\DrWolfBlogAPI\\Tests\\Tests.csproj",
+  "projectFilePath": "d:\\code\\CloudAcademyBlogAPI\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bassel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Bassel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

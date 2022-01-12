@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\DrWolfBlogAPI\\Tests\\Tests.csproj": {}
+    "d:\\code\\CloudAcademyBlogAPI\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\code\\DrWolfBlogAPI\\Tests\\Tests.csproj": {
+    "d:\\code\\CloudAcademyBlogAPI\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\DrWolfBlogAPI\\Tests\\Tests.csproj",
+        "projectUniqueName": "d:\\code\\CloudAcademyBlogAPI\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\code\\DrWolfBlogAPI\\Tests\\Tests.csproj",
+        "projectPath": "d:\\code\\CloudAcademyBlogAPI\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\DrWolfBlogAPI\\Tests\\obj\\",
+        "outputPath": "d:\\code\\CloudAcademyBlogAPI\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\code\\DrWolfBlogAPI\\WebApi\\WebApi.csproj": {
-                "projectPath": "D:\\code\\DrWolfBlogAPI\\WebApi\\WebApi.csproj"
+              "d:\\code\\CloudAcademyBlogAPI\\WebApi\\WebApi.csproj": {
+                "projectPath": "d:\\code\\CloudAcademyBlogAPI\\WebApi\\WebApi.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\code\\DrWolfBlogAPI\\WebApi\\WebApi.csproj": {
+    "d:\\code\\CloudAcademyBlogAPI\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\DrWolfBlogAPI\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "d:\\code\\CloudAcademyBlogAPI\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\code\\DrWolfBlogAPI\\WebApi\\WebApi.csproj",
+        "projectPath": "d:\\code\\CloudAcademyBlogAPI\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\DrWolfBlogAPI\\WebApi\\obj\\",
+        "outputPath": "d:\\code\\CloudAcademyBlogAPI\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config"
