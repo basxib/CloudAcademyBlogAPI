@@ -15,8 +15,10 @@ The tests are not complete yet especially for the authentication (Users) control
 8. Download and open Postman: https://www.postman.com/downloads/
 9. Start experimenting with the APIs using postman (watch this video demonstration) 
 
+
+
 [![Blog API demo](https://img.youtube.com/vi/JjeA7AfE8Yc/0.jpg)](https://www.youtube.com/watch?v=JjeA7AfE8Yc)
-[![Alt text](https://img.youtube.com/vi/JjeA7AfE8Yc/0.jpg)](https://www.youtube.com/watch?v=JjeA7AfE8Yc)
+
 
 
 # Areas to improve if I had more time:
