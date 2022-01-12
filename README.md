@@ -13,7 +13,7 @@ The tests are not complete yet especially for the authentication (Users) control
 6. To run the project CD:\WebApi\ then type "dotnet run"
 7. The web server should be running on port 8090 now.
 8. Download and open Postman: https://www.postman.com/downloads/
-9. Start experimenting with the APIs using postman (watch this video guide)
+9. Start experimenting with the APIs using postman (watch this video demonstration) https://youtu.be/JjeA7AfE8Yc
 
 
 # Areas to improve if I had more time:
