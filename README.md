@@ -1,8 +1,14 @@
 # Blog Web API built using C# & .NET 5
 # Overview
 This is a single blog API project demonstrating Web APIs in .net 5 using TDD princicples and user authentication with JWT tokens. 
-I used the test driven development approach aka (TDD) to build this sample project, it contains 17 unit tests using XUnit framework.
+The project contains 17 unit tests using XUnit framework.
 The tests are not complete yet especially for the authentication (Users) controller.
+
+# Project structure
+1.WebApi (.net project)
+  >>BlogController
+  >>UsersController
+2.Tests (.net project)
 
 # Installation & testing instructions (Windows):
 1. Clone the repo.
@@ -26,3 +32,5 @@ The tests are not complete yet especially for the authentication (Users) control
 2. Use Swagger to serve an API manual page.
 3. Create a containerized version of the app.
 4. Further expand on unit tests.
+5. Implement CI/CD pipelines to automate testing and deployment.
+6. Separate the authentication service to enable reusability from other apps/services.
